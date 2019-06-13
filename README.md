@@ -1,2 +1,2 @@
 # Calculator
-A calculator that have more features
+A calculator that is developed in java which uses AWT for GUI.
